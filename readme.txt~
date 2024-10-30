@@ -1,0 +1,123 @@
+=== HyperComments ===
+
+Contributors: HyperComments
+Donate link: http://hypercomments.com/
+Tags: hyperComments, comments, threaded, email, notification, spam, avatars, community, profile, widget
+Requires at least: 0.9.3
+Tested up to: 0.9.3
+Stable tag: 0.9.3
+
+Hypercomments upgrades your ordinary comments system to 3D and make text interactive.
+
+== Description ==
+
+Unlike traditional comment systems the HyperComments technology  allows commenting on a specific word or a text fragment. 
+<br />
+
+[youtube http://www.youtube.com/watch?v=BkaJAZ146GM /]
+
+**Presentation:**<br />
+https://docs.google.com/presentation/d/1L9K9WXcEdaTGDe1caOKUsb_U_iVhI_6qKBHrlwhgMKY/present
+
+**How Hypercomments work:**<br />
+<ol>
+<li>Reader selects and comments on the text fragment.</li>
+<li>The fragment will be highlighted and then becomes clickable and more attractive.</li>
+<li>Hypercomments will attract attention of new readers and commentators.</li>
+</ol>
+**Benefits for web-site owners:**<br />
+<ul>
+<li>Text becomes interactive</li>
+<li>Comments are tied to the context</li>
+<li>Enrichment the text of the article by readers</li>
+<li>Increasing the number of comments</li>
+<li>Visualization of the "hot zones" in text</li>
+<li>Cross-posting of comments to social networks</li>
+</ul>
+
+**Benefits for your readers:**<br />
+<ul>
+<li>Interaction with the text</li>
+<li>Commenting on the interesting text fragment</li>
+<li>Visualization of the "hot zones" of other readers</li>
+<li>Interaction with other readers</li>
+<li>Cross-posting of comments to social networks</li>
+</ul>
+
+= HyperComments Features =
+<ol>
+<li>Commenting on a text fragment </li>
+<li>Real-time comments</li>
+<li>Comments indexable by search engines</li>
+<li>Import/Export of existing comments </li>
+<li>No registration is required</li>
+<li>Social integration (authorisation and cross-posting of comments)</li>
+<li>RSS option</li>
+<li>Anti spam protection </li>
+<li>Whitelist / blacklist</li>
+<li>Real-time moderation</li>
+</ol>
+= HyperComments plug-in for WordPress =
+
+Hypercomments plug-in is a quickie widget installation for WordPress. The plug-in will replace all the standard comments, which you can bring back anytime, for the new HyperComments. Restoring the linear pre-HyperComments, the plug-in is rendered inactive until further interacted with.
+
+    Comments made indexable for search engines (SEO-friendly)
+    Existing comments importing supported
+
+== Installation ==
+
+**NOTE: It is recommended that you backup your database before installing the plug-in.**
+
+1. Download and unpack archive to 'wp-content/plugins/' directory inside of WordPress
+2. All extracted files should exist in 'wp-content/plugins/hypercomments/'
+3. Сlick on “Activate” in the admin panel WordPress - > Plugins-> Hypercomments 
+4. “Customize Hypercomments” notification will appear
+5. Authorize with Google account
+6. If you are not registered in hypercomments.com, you will need to choose a Tariff plan
+
+**Moderation of comments.**
+
+You can find an admin panel for comments moderation in Wordperss->Comments->Hypercomments 
+
+**Import your comments to HyperComments for not losing existing ones.**
+
+In admin panel WordPress->Tools->Export choose “All content”, and download the file.
+Choose Wordpress  in hypercomments.com/ru/settings/import and download the file.
+  
+Go to [http://hypercomments.com](http://hypercomments.com)
+* Visit http://hypercomments.com for help from our support team.
+
+== Screenshots ==
+
+1. Comments to the highlighted fragment 
+2. Comments are at the bottom of the page
+3. Moderator panel 
+
+== Changelog ==
+
+**1.0.2**
+
+Bug with counter comments fixed 
+
+**1.0.1**
+
+The problem with commentary import was fixed
+
+**1.0.0**
+= HyperComments Features =
+
+1. Commenting on a text fragment 
+2. Real-time comments
+3. Comments indexable by search engines
+4. Import/Export of existing comments 
+5. No registration is required
+6. Social integration (authorisation and cross-posting of comments)
+7. RSS option
+8. Anti spam protection 
+9. Whitelist / blacklist
+10. Real-time moderation
+
+== Upgrade Notice ==
+
+== Frequently Asked Questions ==
+Leave a message at http://hypercomments.com/
